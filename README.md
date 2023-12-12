@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Tejasvi Kumar
+![Leetcode Stats](https://leetcard.jacoblin.cool/tejasvibihari2000?theme=dark)
 
 <!--
 **Tejasvibihari/Tejasvibihari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
