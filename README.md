@@ -1,6 +1,5 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/tejasvibihari2000?theme=dark)
-![](https://leetcard.jacoblin.cool/jacoblincool?font=Dancing_Script)
 
+![](https://leetcard.jacoblin.cool/tejasvibihari2000?ext=heatmap)
 <!--
 **Tejasvibihari/Tejasvibihari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
