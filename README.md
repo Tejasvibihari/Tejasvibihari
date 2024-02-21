@@ -2,6 +2,11 @@
 
 Hi!  I'm Tejasvi Kumar, a passionate MERN Stack developer with a strong foundation in both frontend and backend technologies.
 
+I'm driven by a deep interest in crafting engaging and dynamic web applications. I'm constantly learning and expanding my skillset to tackle new challenges and contribute to innovative projects.
+
+Beyond MERN, I'm also actively exploring Python to broaden my programming horizons.
+
+
 ![](https://leetcard.jacoblin.cool/tejasvibihari2000?ext=heatmap)
 <!--
 **Tejasvibihari/Tejasvibihari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
