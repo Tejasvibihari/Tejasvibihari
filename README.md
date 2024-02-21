@@ -5,7 +5,7 @@
 **I'm constantly learning and expanding my skillset to tackle new challenges and contribute to innovative projects. **
 
 **Beyond MERN, I'm also actively exploring Python to broaden my programming horizons. **
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Tejasvibihari/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 **Here's a glimpse of my expertise:**
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
