@@ -1,3 +1,6 @@
+# Tejasvi Kumar's GitHub Profile
+
+Hi!  I'm Tejasvi Kumar, a passionate MERN Stack developer with a strong foundation in both frontend and backend technologies.
 
 ![](https://leetcard.jacoblin.cool/tejasvibihari2000?ext=heatmap)
 <!--
