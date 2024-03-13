@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tejasvi_bihari" target="blank"><img src="https://img.shields.io/twitter/follow/tejasvi_bihari?logo=twitter&style=for-the-badge" alt="tejasvi_bihari" /></a> </p>
 
-- 🔭 I’m currently working on **Real Estate MERN Web App**
+- 🔭 I’m currently working on **Hotel Booking MERN Web App**
 
 - 🌱 I’m currently learning **React**
 
